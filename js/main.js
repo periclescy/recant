@@ -1,7 +1,7 @@
 /** Global Variables **/
 const preloader_time = 3;  // Pre-loader time in seconds
-const change_image_threshold  = 3; // how many times to change images in order to reveal Questionnaire button.
-const execute_threshold  = 5; // how many times execute button is clicked in order to  show Questionnaire button.
+const change_image_threshold  = 3; // how many times change image button is clicked  in order to show Questionnaire button.
+const execute_threshold  = 3; // how many times execute button is clicked in order to show Questionnaire button.
 
 /** Set variables for elements **/
 const loader_element = document.getElementById("loader-presentation");
