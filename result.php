@@ -135,7 +135,7 @@ function classTooltip($str_value): string
 <?php require 'includes/header.html' ?>
 
 <div class="container-xxl">
-    <h1 class="display-4 text-center py-3">DESCANT Demonstration Tool</h1>
+    <h1 class="display-4 text-center py-3">RECANT Demonstration Tool</h1>
     <div class="row">
         <div class="col-md-6">
             <h2>1. Input image:</h2>
