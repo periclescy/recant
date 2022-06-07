@@ -231,7 +231,7 @@ function classTooltip($str_value): string
                 </table>
             </div>
             <div class="text-center col-md-8 offset-md-2 col-xl-6 offset-xl-3 pb-5">
-                <a href="/" class="btn btn-success w-50 d-none" id="questionnaire-button">Questionnaire</a>
+                <a href="https://docs.google.com/forms/d/1LZgdTRrQujHRpDlQPW9tzwcZF3nuVDdsj2vvJcCWXpY" class="btn btn-success w-50 d-none" id="questionnaire-button">Questionnaire</a>
             </div>
         </div>
 
