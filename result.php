@@ -31,7 +31,7 @@ function classFirstParagraph($str_value): string
             $return_class = 'When creating the original Chicago Face Database, from where this image was retrieved, participants were asked to rate the person in the image for how trustworthy they seemed “with respect to other people of the same race and gender” on a Likert scale (1 = Not at all; 7 = Extremely). The mean score for the image, as reported in the CFD, was selected as the <span class="fw-bold">ground truth</span> for the <span class="fw-bold">trustworthiness</span> of the person in the image. The average number of raters per image across the whole dataset was 47. A score of 1-3 is categorized as Low, 3-5 as Medium, and 5-7 as High.';
             break;
         case "Attractiveness":
-            $return_class = ' When creating the original Chicago Face Database, from where this image was retrieved, participants were asked to rate the person in the image for how attractive they seemed “with respect to other people of the same race and gender” on a Likert scale (1 = Not at all; 7 = Extremely). The mean score for the image, as reported in the CFD, was selected as <span class="fw-bold">the ground truth</span> for the <span class="fw-bold">attractiveness</span> of the person in the image. The average number of raters per image across the whole dataset was 47. A score of 1-3 is categorized as Low, 3-5 as Medium, and 5-7 as High. ';
+            $return_class = 'When creating the original Chicago Face Database, from where this image was retrieved, participants were asked to rate the person in the image for how attractive they seemed “with respect to other people of the same race and gender” on a Likert scale (1 = Not at all; 7 = Extremely). The mean score for the image, as reported in the CFD, was selected as <span class="fw-bold">the ground truth</span> for the <span class="fw-bold">attractiveness</span> of the person in the image. The average number of raters per image across the whole dataset was 47. A score of 1-3 is categorized as Low, 3-5 as Medium, and 5-7 as High.';
             break;
         default:
             $return_class = '';
@@ -44,14 +44,14 @@ function classThirdParagraph($str_value): string
 {
     switch ($str_value) {
         case "Gender":
-            $return_class = "The same input image (above) was passed through each of the eight models, resulting in the following outputs (possible outputs: Male, Female):";
+            $return_class = "Male, Female";
             break;
         case "Race":
-            $return_class = "The same input image (above) was passed through each of the eight models, resulting in the following outputs (possible outputs: Asian, Black, Latino, White):";
+            $return_class = "Asian, Black, Latino, White";
             break;
         case "Trustworthiness":
         case "Attractiveness":
-            $return_class = "The same input image (above) was passed through each of the eight models, resulting in the following outputs (possible outputs: Low, Medium, High):";
+            $return_class = "Low, Medium, High";
             break;
         default:
             $return_class = "";
@@ -97,32 +97,35 @@ function classColor($str_value): string
 }
 
 // Calculate tooltip text based on value
-function classTooltip($str_value): string
+function classModelDescription($str_value): string
 {
     switch ($str_value) {
+        case "CFD Annotators":
+            $return_class = "Model trained on the norming data provided with the CFD.";
+            break;
         case "All Annotators":
-            $return_class = "Model created using data annotated by all annotators.";
+            $return_class = "Model trained using all the annotations for all images.";
             break;
         case "Men":
-            $return_class = "Model created using data annotated by male annotators.";
+            $return_class = "Model trained using all the annotations provided by male crowdworkers.";
             break;
         case "Women":
-            $return_class = "Model created using data annotated by female annotators.";
+            $return_class = "Model trained using all the annotations provided by female crowdworkers.";
             break;
         case "Black":
-            $return_class = "Model created using data annotated by black annotators.";
+            $return_class = "Model trained using all the annotations provided by Black crowdworkers.";
             break;
         case "Asian":
-            $return_class = "Model created using data annotated by asian annotators.";
+            $return_class = "Model trained using all the annotations provided by Asian crowdworkers.";
             break;
         case "White":
-            $return_class = "Model created using data annotated by white annotators.";
+            $return_class = "Model trained using all the annotations provided by White crowdworkers.";
             break;
         case "Latino":
-            $return_class = "Model created using data annotated by latino annotators.";
+            $return_class = "Model trained using all the annotations provided by Latino crowdworkers.";
             break;
         case "Random":
-            $return_class = "Model created using data annotated by random annotators.";
+            $return_class = "Model that simulates the case where annotators generate labels without considering the image content.";
             break;
         default:
             $return_class = "";
@@ -191,46 +194,33 @@ function classTooltip($str_value): string
 
     <div class="d-none" id="results-presentation">
         <p class="pt-2"><?php echo classFirstParagraph($classification); ?></p>
-
-        <div class="row">
-            <div class="col-1">&nbsp;</div>
-            <div class="col-11">
-                <table class="table table-light text-center">
-                    <?php foreach($user_array as $key => $val) {?>
-                        <?php if ($key == "Ground Truth") { ?>
-                            <tr>
-                                <th scope="row" class="w-50"><?php echo $key;?></th>
-                                <td class="w-50 <?php echo classColor($val); ?>"><?php echo $val;?></td>
-                            </tr>
-                        <?php } ?>
-                    <?php } ?>
-                </table>
-            </div>
-            <div class="p-3"></div>
-
-            <p>Eight different models were trained on the same images for each task, with different (sub)sets of crowd-worker annotations. One model was trained using all the annotations for all images (# of annotations), and another one using a random subset of annotations (# of annotations). The other four were trained with annotations only from a subset of crowdworkers; e.g., the “Men” model was trained using annotations which were created by crowd-workers who identified as men, while the “White” model used only those from crowdworkers who identified as White.</p>
-
-            <p><?php echo classThirdParagraph($classification); ?></p>
-        </div>
+        <p>Nine different models were trained on the same images for each task, with different (sub)sets of crowd-worker annotations. One model was trained using all the annotations for all images (# of annotations), and another one using a random subset of annotations (# of annotations). The other four were trained with annotations only from a subset of crowdworkers; e.g., the “Men” model was trained using annotations which were created by crowd-workers who identified as men, while the “White” model used only those from crowdworkers who identified as White.</p>
+        <p>The same input image (above) was passed through each of the nine models, resulting in the following outputs (possible outputs: <?php echo classThirdParagraph($classification); ?>):</p>
 
         <div class="row">
             <div class="col-1"><h3 class="vertical-text fs-2">Models</h3></div>
             <div class="col-11">
                 <table class="table table-bordered text-center">
+                    <thead>
+                    <tr>
+                        <th>Model</th>
+                        <th>Model Description</th>
+                        <th>Classification Decision</th>
+                    </tr>
+                    </thead>
                     <tbody>
                     <?php $i = 0; ?>
                     <?php foreach($user_array as $key => $val) { ?>
-                        <?php if ($key != "Ground Truth") { $i++; ?>
-                            <tr>
-                                <td class="w-50" data-bs-toggle="tooltip" data-bs-html="true" title="<?php echo classTooltip($key);?>"><?php echo $key;?></td>
-                                <td class="w-50 <?php echo classColor($val);?>" id="<?php echo $i;?>" data-bs-toggle="tooltip" data-bs-html="true" title="<?php echo classTooltip($key);?>"><?php echo $val;?></td>
-                            </tr>
-                        <?php } ?>
+                        <tr>
+                            <td class="w-20 align-middle" data-bs-toggle="tooltip" data-bs-html="true" title="<?php echo classModelDescription($key);?>"><?php echo $key;?></td>
+                            <td class="w-60 align-middle"><?php echo classModelDescription($key);?></td>
+                            <td class="w-20 align-middle <?php echo classColor($val);?>" id="<?php echo $i;?>" data-bs-toggle="tooltip" data-bs-html="true" title="<?php echo classModelDescription($key);?>"><?php echo $val;?></td>
+                        </tr>
                     <?php } ?>
                     </tbody>
                 </table>
             </div>
-            <div class="text-center col-md-8 offset-md-2 col-xl-6 offset-xl-3 pb-5">
+            <div class="text-center col-md-8 offset-md-2 col-xl-6 offset-xl-3 pt-3 pb-5">
                 <a href="https://docs.google.com/forms/d/1LZgdTRrQujHRpDlQPW9tzwcZF3nuVDdsj2vvJcCWXpY" class="btn btn-success w-50 d-none" id="questionnaire-button">Questionnaire</a>
             </div>
         </div>

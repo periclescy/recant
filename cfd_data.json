@@ -3,7 +3,7 @@
 	{
 		"CFD-BF-003-003-N":
 		{
-			"Ground Truth":"Female",
+			"CFD Annotators":"Female",
 			"All Annotators":"Female",
 			"Men":"Female",
 			"Women":"Female",
@@ -16,7 +16,7 @@
 	,
 		"CFD-AF-250-200-N":
 		{
-			"Ground Truth":"Female",
+			"CFD Annotators":"Female",
 			"All Annotators":"Female",
 			"Men":"Female",
 			"Women":"Female",
@@ -29,7 +29,7 @@
 	,
 		"CFD-BF-035-001-N":
 		{
-			"Ground Truth":"Male",
+			"CFD Annotators":"Male",
 			"All Annotators":"Female",
 			"Men":"Male",
 			"Women":"Female",
@@ -42,7 +42,7 @@
 	,
 		"CFD-WM-038-003-N":
 		{
-			"Ground Truth":"Male",
+			"CFD Annotators":"Male",
 			"All Annotators":"Male",
 			"Men":"Male",
 			"Women":"Male",
@@ -55,7 +55,7 @@
 	,
 		"CFD-AF-209-006-N":
 		{
-			"Ground Truth":"Female",
+			"CFD Annotators":"Female",
 			"All Annotators":"Female",
 			"Men":"Female",
 			"Women":"Female",
@@ -68,7 +68,7 @@
 	,
 		"CFD-LM-224-162-N":
 		{
-			"Ground Truth":"Male",
+			"CFD Annotators":"Male",
 			"All Annotators":"Male",
 			"Men":"Male",
 			"Women":"Male",
@@ -81,7 +81,7 @@
 	,
 		"CFD-BM-219-141-N":
 		{
-			"Ground Truth":"Male",
+			"CFD Annotators":"Male",
 			"All Annotators":"Male",
 			"Men":"Female",
 			"Women":"Male",
@@ -94,7 +94,7 @@
 	,
 		"CFD-WF-233-112-N":
 		{
-			"Ground Truth":"Female",
+			"CFD Annotators":"Female",
 			"All Annotators":"Female",
 			"Men":"Female",
 			"Women":"Female",
@@ -107,7 +107,7 @@
 	,
 		"CFD-BF-240-179-N":
 		{
-			"Ground Truth":"Female",
+			"CFD Annotators":"Female",
 			"All Annotators":"Female",
 			"Men":"Female",
 			"Women":"Female",
@@ -120,7 +120,7 @@
 	,
 		"CFD-LF-249-132-N":
 		{
-			"Ground Truth":"Female",
+			"CFD Annotators":"Female",
 			"All Annotators":"Female",
 			"Men":"Female",
 			"Women":"Female",
@@ -133,7 +133,7 @@
 	,
 		"CFD-AM-224-126-N":
 		{
-			"Ground Truth":"Male",
+			"CFD Annotators":"Male",
 			"All Annotators":"Male",
 			"Men":"Male",
 			"Women":"Male",
@@ -146,7 +146,7 @@
 	,
 		"CFD-LF-240-199-N":
 		{
-			"Ground Truth":"Female",
+			"CFD Annotators":"Female",
 			"All Annotators":"Female",
 			"Men":"Female",
 			"Women":"Male",
@@ -159,7 +159,7 @@
 	,
 		"CFD-BF-200-080-N":
 		{
-			"Ground Truth":"Female",
+			"CFD Annotators":"Female",
 			"All Annotators":"Female",
 			"Men":"Female",
 			"Women":"Female",
@@ -172,7 +172,7 @@
 	,
 		"CFD-BF-251-211-N":
 		{
-			"Ground Truth":"Female",
+			"CFD Annotators":"Female",
 			"All Annotators":"Female",
 			"Men":"Female",
 			"Women":"Female",
@@ -185,7 +185,7 @@
 	,
 		"CFD-LM-201-057-N":
 		{
-			"Ground Truth":"Male",
+			"CFD Annotators":"Male",
 			"All Annotators":"Male",
 			"Men":"Male",
 			"Women":"Male",
@@ -198,7 +198,7 @@
 	,
 		"CFD-WF-203-229-N":
 		{
-			"Ground Truth":"Female",
+			"CFD Annotators":"Female",
 			"All Annotators":"Female",
 			"Men":"Female",
 			"Women":"Female",
@@ -211,7 +211,7 @@
 	,
 		"CFD-AM-219-101-N":
 		{
-			"Ground Truth":"Male",
+			"CFD Annotators":"Male",
 			"All Annotators":"Male",
 			"Men":"Male",
 			"Women":"Male",
@@ -224,7 +224,7 @@
 	,
 		"CFD-WM-249-239-N":
 		{
-			"Ground Truth":"Male",
+			"CFD Annotators":"Male",
 			"All Annotators":"Male",
 			"Men":"Male",
 			"Women":"Male",
@@ -237,7 +237,7 @@
 	,
 		"CFD-BM-213-134-N":
 		{
-			"Ground Truth":"Male",
+			"CFD Annotators":"Male",
 			"All Annotators":"Male",
 			"Men":"Male",
 			"Women":"Male",
@@ -250,7 +250,7 @@
 	,
 		"CFD-AM-214-168-N":
 		{
-			"Ground Truth":"Male",
+			"CFD Annotators":"Male",
 			"All Annotators":"Male",
 			"Men":"Male",
 			"Women":"Male",
@@ -267,7 +267,7 @@
 	{
 		"CFD-BF-003-003-N":
 		{
-			"Ground Truth":"Black",
+			"CFD Annotators":"Black",
 			"All Annotators":"Black",
 			"Men":"Black",
 			"Women":"Black",
@@ -280,7 +280,7 @@
 	,
 		"CFD-AF-250-200-N":
 		{
-			"Ground Truth":"Asian",
+			"CFD Annotators":"Asian",
 			"All Annotators":"Asian",
 			"Men":"Asian",
 			"Women":"Black",
@@ -293,7 +293,7 @@
 	,
 		"CFD-BF-035-001-N":
 		{
-			"Ground Truth":"Black",
+			"CFD Annotators":"Black",
 			"All Annotators":"Black",
 			"Men":"Black",
 			"Women":"Black",
@@ -306,7 +306,7 @@
 	,
 		"CFD-WM-038-003-N":
 		{
-			"Ground Truth":"White",
+			"CFD Annotators":"White",
 			"All Annotators":"White",
 			"Men":"White",
 			"Women":"White",
@@ -319,7 +319,7 @@
 	,
 		"CFD-AF-209-006-N":
 		{
-			"Ground Truth":"Latino",
+			"CFD Annotators":"Latino",
 			"All Annotators":"White",
 			"Men":"Asian",
 			"Women":"White",
@@ -332,7 +332,7 @@
 	,
 		"CFD-LM-224-162-N":
 		{
-			"Ground Truth":"White",
+			"CFD Annotators":"White",
 			"All Annotators":"White",
 			"Men":"Black",
 			"Women":"Black",
@@ -345,7 +345,7 @@
 	,
 		"CFD-BM-219-141-N":
 		{
-			"Ground Truth":"Asian",
+			"CFD Annotators":"Asian",
 			"All Annotators":"Latino",
 			"Men":"Black",
 			"Women":"Black",
@@ -358,7 +358,7 @@
 	,
 		"CFD-WF-233-112-N":
 		{
-			"Ground Truth":"White",
+			"CFD Annotators":"White",
 			"All Annotators":"White",
 			"Men":"White",
 			"Women":"White",
@@ -371,7 +371,7 @@
 	,
 		"CFD-BF-240-179-N":
 		{
-			"Ground Truth":"Black",
+			"CFD Annotators":"Black",
 			"All Annotators":"Black",
 			"Men":"White",
 			"Women":"Black",
@@ -384,7 +384,7 @@
 	,
 		"CFD-LF-249-132-N":
 		{
-			"Ground Truth":"Latino",
+			"CFD Annotators":"Latino",
 			"All Annotators":"Latino",
 			"Men":"Black",
 			"Women":"Latino",
@@ -397,7 +397,7 @@
 	,
 		"CFD-AM-224-126-N":
 		{
-			"Ground Truth":"Asian",
+			"CFD Annotators":"Asian",
 			"All Annotators":"Asian",
 			"Men":"Asian",
 			"Women":"Asian",
@@ -410,7 +410,7 @@
 	,
 		"CFD-LF-240-199-N":
 		{
-			"Ground Truth":"Latino",
+			"CFD Annotators":"Latino",
 			"All Annotators":"Latino",
 			"Men":"White",
 			"Women":"White",
@@ -423,7 +423,7 @@
 	,
 		"CFD-BF-200-080-N":
 		{
-			"Ground Truth":"Black",
+			"CFD Annotators":"Black",
 			"All Annotators":"Black",
 			"Men":"Black",
 			"Women":"Black",
@@ -436,7 +436,7 @@
 	,
 		"CFD-BF-251-211-N":
 		{
-			"Ground Truth":"Black",
+			"CFD Annotators":"Black",
 			"All Annotators":"Black",
 			"Men":"Black",
 			"Women":"Black",
@@ -449,7 +449,7 @@
 	,
 		"CFD-LM-201-057-N":
 		{
-			"Ground Truth":"White",
+			"CFD Annotators":"White",
 			"All Annotators":"White",
 			"Men":"Black",
 			"Women":"White",
@@ -462,7 +462,7 @@
 	,
 		"CFD-WF-203-229-N":
 		{
-			"Ground Truth":"Asian",
+			"CFD Annotators":"Asian",
 			"All Annotators":"Latino",
 			"Men":"Latino",
 			"Women":"White",
@@ -475,7 +475,7 @@
 	,
 		"CFD-AM-219-101-N":
 		{
-			"Ground Truth":"Latino",
+			"CFD Annotators":"Latino",
 			"All Annotators":"Latino",
 			"Men":"Latino",
 			"Women":"Latino",
@@ -488,7 +488,7 @@
 	,
 		"CFD-WM-249-239-N":
 		{
-			"Ground Truth":"White",
+			"CFD Annotators":"White",
 			"All Annotators":"White",
 			"Men":"Black",
 			"Women":"White",
@@ -501,7 +501,7 @@
 	,
 		"CFD-BM-213-134-N":
 		{
-			"Ground Truth":"Black",
+			"CFD Annotators":"Black",
 			"All Annotators":"Black",
 			"Men":"Black",
 			"Women":"Black",
@@ -514,7 +514,7 @@
 	,
 		"CFD-AM-214-168-N":
 		{
-			"Ground Truth":"Black",
+			"CFD Annotators":"Black",
 			"All Annotators":"Black",
 			"Men":"Black",
 			"Women":"Black",
@@ -531,7 +531,7 @@
 	{
 		"CFD-BF-003-003-N":
 		{
-			"Ground Truth":"Medium",
+			"CFD Annotators":"Medium",
 			"All Annotators":"Low",
 			"Men":"Low",
 			"Women":"High",
@@ -544,7 +544,7 @@
 	,
 		"CFD-AF-250-200-N":
 		{
-			"Ground Truth":"Medium",
+			"CFD Annotators":"Medium",
 			"All Annotators":"Low",
 			"Men":"Low",
 			"Women":"Low",
@@ -557,7 +557,7 @@
 	,
 		"CFD-BF-035-001-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Low",
 			"Men":"Low",
 			"Women":"Low",
@@ -570,7 +570,7 @@
 	,
 		"CFD-WM-038-003-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Low",
 			"Men":"High",
 			"Women":"Low",
@@ -583,7 +583,7 @@
 	,
 		"CFD-AF-209-006-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"Medium",
 			"Men":"Low",
 			"Women":"Low",
@@ -596,7 +596,7 @@
 	,
 		"CFD-LM-224-162-N":
 		{
-			"Ground Truth":"Medium",
+			"CFD Annotators":"Medium",
 			"All Annotators":"High",
 			"Men":"Low",
 			"Women":"Medium",
@@ -609,7 +609,7 @@
 	,
 		"CFD-BM-219-141-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"High",
 			"Men":"High",
 			"Women":"Low",
@@ -622,7 +622,7 @@
 	,
 		"CFD-WF-233-112-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"High",
 			"Men":"Low",
 			"Women":"High",
@@ -635,7 +635,7 @@
 	,
 		"CFD-BF-240-179-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"High",
 			"Men":"High",
 			"Women":"High",
@@ -648,7 +648,7 @@
 	,
 		"CFD-LF-249-132-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"Low",
 			"Men":"High",
 			"Women":"Low",
@@ -661,7 +661,7 @@
 	,
 		"CFD-AM-224-126-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Low",
 			"Men":"Low",
 			"Women":"Low",
@@ -674,7 +674,7 @@
 	,
 		"CFD-LF-240-199-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Low",
 			"Men":"Medium",
 			"Women":"Low",
@@ -687,7 +687,7 @@
 	,
 		"CFD-BF-200-080-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"High",
 			"Men":"Low",
 			"Women":"High",
@@ -700,7 +700,7 @@
 	,
 		"CFD-BF-251-211-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"High",
 			"Men":"High",
 			"Women":"High",
@@ -713,7 +713,7 @@
 	,
 		"CFD-LM-201-057-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"High",
 			"Men":"Low",
 			"Women":"Medium",
@@ -726,7 +726,7 @@
 	,
 		"CFD-WF-203-229-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
 			"Men":"Medium",
 			"Women":"Low",
@@ -739,7 +739,7 @@
 	,
 		"CFD-AM-219-101-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Low",
 			"Men":"Low",
 			"Women":"Low",
@@ -752,7 +752,7 @@
 	,
 		"CFD-WM-249-239-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Low",
 			"Men":"Low",
 			"Women":"Low",
@@ -765,7 +765,7 @@
 	,
 		"CFD-BM-213-134-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Low",
 			"Men":"Low",
 			"Women":"Low",
@@ -778,7 +778,7 @@
 	,
 		"CFD-AM-214-168-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"High",
 			"Men":"Low",
 			"Women":"Low",
@@ -795,7 +795,7 @@
 	{
 		"CFD-BF-003-003-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"Medium",
 			"Men":"Low",
 			"Women":"Medium",
@@ -808,7 +808,7 @@
 	,
 		"CFD-AF-250-200-N":
 		{
-			"Ground Truth":"Medium",
+			"CFD Annotators":"Medium",
 			"All Annotators":"High",
 			"Men":"Medium",
 			"Women":"Low",
@@ -821,7 +821,7 @@
 	,
 		"CFD-BF-035-001-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"High",
 			"Men":"Low",
 			"Women":"Medium",
@@ -834,7 +834,7 @@
 	,
 		"CFD-WM-038-003-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"High",
 			"Men":"Low",
 			"Women":"Low",
@@ -847,7 +847,7 @@
 	,
 		"CFD-AF-209-006-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"Medium",
 			"Men":"High",
 			"Women":"Medium",
@@ -860,7 +860,7 @@
 	,
 		"CFD-LM-224-162-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"Medium",
 			"Men":"Medium",
 			"Women":"Medium",
@@ -873,7 +873,7 @@
 	,
 		"CFD-BM-219-141-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
 			"Men":"Low",
 			"Women":"Low",
@@ -886,7 +886,7 @@
 	,
 		"CFD-WF-233-112-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"High",
 			"Men":"Medium",
 			"Women":"Low",
@@ -899,7 +899,7 @@
 	,
 		"CFD-BF-240-179-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"High",
 			"Men":"High",
 			"Women":"High",
@@ -912,7 +912,7 @@
 	,
 		"CFD-LF-249-132-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"High",
 			"Men":"Medium",
 			"Women":"Low",
@@ -925,7 +925,7 @@
 	,
 		"CFD-AM-224-126-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
 			"Men":"Medium",
 			"Women":"Medium",
@@ -938,7 +938,7 @@
 	,
 		"CFD-LF-240-199-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
 			"Men":"Low",
 			"Women":"Low",
@@ -951,7 +951,7 @@
 	,
 		"CFD-BF-200-080-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
 			"Men":"Medium",
 			"Women":"Medium",
@@ -964,7 +964,7 @@
 	,
 		"CFD-BF-251-211-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"High",
 			"Men":"High",
 			"Women":"High",
@@ -977,7 +977,7 @@
 	,
 		"CFD-LM-201-057-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
 			"Men":"High",
 			"Women":"Medium",
@@ -990,7 +990,7 @@
 	,
 		"CFD-WF-203-229-N":
 		{
-			"Ground Truth":"High",
+			"CFD Annotators":"High",
 			"All Annotators":"Medium",
 			"Men":"Medium",
 			"Women":"Low",
@@ -1003,7 +1003,7 @@
 	,
 		"CFD-AM-219-101-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
 			"Men":"Medium",
 			"Women":"Low",
@@ -1016,7 +1016,7 @@
 	,
 		"CFD-WM-249-239-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Low",
 			"Men":"Low",
 			"Women":"Low",
@@ -1029,7 +1029,7 @@
 	,
 		"CFD-BM-213-134-N":
 		{
-			"Ground Truth":"Low",
+			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
 			"Men":"Medium",
 			"Women":"Medium",
@@ -1042,7 +1042,7 @@
 	,
 		"CFD-AM-214-168-N":
 		{
-			"Ground Truth":"Medium",
+			"CFD Annotators":"Medium",
 			"All Annotators":"Medium",
 			"Men":"Medium",
 			"Women":"Low",
