@@ -5,260 +5,260 @@
 		{
 			"CFD Annotators":"Female",
 			"All Annotators":"Female",
+			"Random":"Male",
 			"Men":"Female",
 			"Women":"Female",
 			"Black":"Female",
 			"Asian":"Female",
 			"White":"Female",
-			"Latino":"Female",
-			"Random":"Male"
+			"Latino":"Female"
 		}
 	,
 		"CFD-AF-250-200-N":
 		{
 			"CFD Annotators":"Female",
 			"All Annotators":"Female",
+			"Random":"Male",
 			"Men":"Female",
 			"Women":"Female",
 			"Black":"Female",
 			"Asian":"Female",
 			"White":"Female",
-			"Latino":"Female",
-			"Random":"Male"
+			"Latino":"Female"
 		}
 	,
 		"CFD-BF-035-001-N":
 		{
 			"CFD Annotators":"Male",
 			"All Annotators":"Female",
+			"Random":"Male",
 			"Men":"Male",
 			"Women":"Female",
 			"Black":"Male",
 			"Asian":"Female",
 			"White":"Female",
-			"Latino":"Female",
-			"Random":"Male"
+			"Latino":"Female"
 		}
 	,
 		"CFD-WM-038-003-N":
 		{
 			"CFD Annotators":"Male",
 			"All Annotators":"Male",
+			"Random":"Female",
 			"Men":"Male",
 			"Women":"Male",
 			"Black":"Female",
 			"Asian":"Female",
 			"White":"Female",
-			"Latino":"Male",
-			"Random":"Female"
+			"Latino":"Male"
 		}
 	,
 		"CFD-AF-209-006-N":
 		{
 			"CFD Annotators":"Female",
 			"All Annotators":"Female",
+			"Random":"Female",
 			"Men":"Female",
 			"Women":"Female",
 			"Black":"Female",
 			"Asian":"Female",
 			"White":"Female",
-			"Latino":"Female",
-			"Random":"Female"
+			"Latino":"Female"
 		}
 	,
 		"CFD-LM-224-162-N":
 		{
 			"CFD Annotators":"Male",
 			"All Annotators":"Male",
+			"Random":"Female",
 			"Men":"Male",
 			"Women":"Male",
 			"Black":"Male",
 			"Asian":"Male",
 			"White":"Male",
-			"Latino":"Male",
-			"Random":"Female"
+			"Latino":"Male"
 		}
 	,
 		"CFD-BM-219-141-N":
 		{
 			"CFD Annotators":"Male",
 			"All Annotators":"Male",
+			"Random":"Male",
 			"Men":"Female",
 			"Women":"Male",
 			"Black":"Female",
 			"Asian":"Male",
 			"White":"Male",
-			"Latino":"Male",
-			"Random":"Male"
+			"Latino":"Male"
 		}
 	,
 		"CFD-WF-233-112-N":
 		{
 			"CFD Annotators":"Female",
 			"All Annotators":"Female",
+			"Random":"Female",
 			"Men":"Female",
 			"Women":"Female",
 			"Black":"Female",
 			"Asian":"Female",
 			"White":"Female",
-			"Latino":"Male",
-			"Random":"Female"
+			"Latino":"Male"
 		}
 	,
 		"CFD-BF-240-179-N":
 		{
 			"CFD Annotators":"Female",
 			"All Annotators":"Female",
+			"Random":"Female",
 			"Men":"Female",
 			"Women":"Female",
 			"Black":"Female",
 			"Asian":"Female",
 			"White":"Female",
-			"Latino":"Female",
-			"Random":"Female"
+			"Latino":"Female"
 		}
 	,
 		"CFD-LF-249-132-N":
 		{
 			"CFD Annotators":"Female",
 			"All Annotators":"Female",
+			"Random":"Male",
 			"Men":"Female",
 			"Women":"Female",
 			"Black":"Female",
 			"Asian":"Female",
 			"White":"Female",
-			"Latino":"Female",
-			"Random":"Male"
+			"Latino":"Female"
 		}
 	,
 		"CFD-AM-224-126-N":
 		{
 			"CFD Annotators":"Male",
 			"All Annotators":"Male",
+			"Random":"Male",
 			"Men":"Male",
 			"Women":"Male",
 			"Black":"Male",
 			"Asian":"Male",
 			"White":"Male",
-			"Latino":"Female",
-			"Random":"Male"
+			"Latino":"Female"
 		}
 	,
 		"CFD-LF-240-199-N":
 		{
 			"CFD Annotators":"Female",
 			"All Annotators":"Female",
+			"Random":"Female",
 			"Men":"Female",
 			"Women":"Male",
 			"Black":"Female",
 			"Asian":"Male",
 			"White":"Male",
-			"Latino":"Male",
-			"Random":"Female"
+			"Latino":"Male"
 		}
 	,
 		"CFD-BF-200-080-N":
 		{
 			"CFD Annotators":"Female",
 			"All Annotators":"Female",
+			"Random":"Female",
 			"Men":"Female",
 			"Women":"Female",
 			"Black":"Female",
 			"Asian":"Male",
 			"White":"Male",
-			"Latino":"Male",
-			"Random":"Female"
+			"Latino":"Male"
 		}
 	,
 		"CFD-BF-251-211-N":
 		{
 			"CFD Annotators":"Female",
 			"All Annotators":"Female",
+			"Random":"Female",
 			"Men":"Female",
 			"Women":"Female",
 			"Black":"Female",
 			"Asian":"Female",
 			"White":"Female",
-			"Latino":"Female",
-			"Random":"Female"
+			"Latino":"Female"
 		}
 	,
 		"CFD-LM-201-057-N":
 		{
 			"CFD Annotators":"Male",
 			"All Annotators":"Male",
+			"Random":"Female",
 			"Men":"Male",
 			"Women":"Male",
 			"Black":"Male",
 			"Asian":"Male",
 			"White":"Male",
-			"Latino":"Male",
-			"Random":"Female"
+			"Latino":"Male"
 		}
 	,
 		"CFD-WF-203-229-N":
 		{
 			"CFD Annotators":"Female",
 			"All Annotators":"Female",
+			"Random":"Male",
 			"Men":"Female",
 			"Women":"Female",
 			"Black":"Female",
 			"Asian":"Female",
 			"White":"Female",
-			"Latino":"Female",
-			"Random":"Male"
+			"Latino":"Female"
 		}
 	,
 		"CFD-AM-219-101-N":
 		{
 			"CFD Annotators":"Male",
 			"All Annotators":"Male",
+			"Random":"Male",
 			"Men":"Male",
 			"Women":"Male",
 			"Black":"Female",
 			"Asian":"Male",
 			"White":"Male",
-			"Latino":"Male",
-			"Random":"Male"
+			"Latino":"Male"
 		}
 	,
 		"CFD-WM-249-239-N":
 		{
 			"CFD Annotators":"Male",
 			"All Annotators":"Male",
+			"Random":"Female",
 			"Men":"Male",
 			"Women":"Male",
 			"Black":"Male",
 			"Asian":"Male",
 			"White":"Male",
-			"Latino":"Male",
-			"Random":"Female"
+			"Latino":"Male"
 		}
 	,
 		"CFD-BM-213-134-N":
 		{
 			"CFD Annotators":"Male",
 			"All Annotators":"Male",
+			"Random":"Female",
 			"Men":"Male",
 			"Women":"Male",
 			"Black":"Female",
 			"Asian":"Male",
 			"White":"Female",
-			"Latino":"Male",
-			"Random":"Female"
+			"Latino":"Male"
 		}
 	,
 		"CFD-AM-214-168-N":
 		{
 			"CFD Annotators":"Male",
 			"All Annotators":"Male",
+			"Random":"Male",
 			"Men":"Male",
 			"Women":"Male",
 			"Black":"Female",
 			"Asian":"Male",
 			"White":"Male",
-			"Latino":"Male",
-			"Random":"Male"
+			"Latino":"Male"
 		}
 
 	}
@@ -269,260 +269,260 @@
 		{
 			"CFD Annotators":"Black",
 			"All Annotators":"Black",
+			"Random":"Asian",
 			"Men":"Black",
 			"Women":"Black",
 			"Black":"Black",
 			"Asian":"Black",
 			"White":"Black",
-			"Latino":"Black",
-			"Random":"Asian"
+			"Latino":"Black"
 		}
 	,
 		"CFD-AF-250-200-N":
 		{
 			"CFD Annotators":"Asian",
 			"All Annotators":"Asian",
+			"Random":"Latino",
 			"Men":"Asian",
 			"Women":"Black",
 			"Black":"Asian",
 			"Asian":"White",
 			"White":"Asian",
-			"Latino":"Asian",
-			"Random":"Latino"
+			"Latino":"Asian"
 		}
 	,
 		"CFD-BF-035-001-N":
 		{
 			"CFD Annotators":"Black",
 			"All Annotators":"Black",
+			"Random":"White",
 			"Men":"Black",
 			"Women":"Black",
 			"Black":"Black",
 			"Asian":"Black",
 			"White":"Black",
-			"Latino":"Black",
-			"Random":"White"
+			"Latino":"Black"
 		}
 	,
 		"CFD-WM-038-003-N":
 		{
 			"CFD Annotators":"White",
 			"All Annotators":"White",
+			"Random":"Asian",
 			"Men":"White",
 			"Women":"White",
 			"Black":"White",
 			"Asian":"White",
 			"White":"White",
-			"Latino":"White",
-			"Random":"Asian"
+			"Latino":"White"
 		}
 	,
 		"CFD-AF-209-006-N":
 		{
 			"CFD Annotators":"Latino",
 			"All Annotators":"White",
+			"Random":"Asian",
 			"Men":"Asian",
 			"Women":"White",
 			"Black":"Asian",
 			"Asian":"White",
 			"White":"White",
-			"Latino":"Asian",
-			"Random":"Asian"
+			"Latino":"Asian"
 		}
 	,
 		"CFD-LM-224-162-N":
 		{
 			"CFD Annotators":"White",
 			"All Annotators":"White",
+			"Random":"Black",
 			"Men":"Black",
 			"Women":"Black",
 			"Black":"Black",
 			"Asian":"Black",
 			"White":"Black",
-			"Latino":"White",
-			"Random":"Black"
+			"Latino":"White"
 		}
 	,
 		"CFD-BM-219-141-N":
 		{
 			"CFD Annotators":"Asian",
 			"All Annotators":"Latino",
+			"Random":"Black",
 			"Men":"Black",
 			"Women":"Black",
 			"Black":"Asian",
 			"Asian":"Asian",
 			"White":"Latino",
-			"Latino":"Asian",
-			"Random":"Black"
+			"Latino":"Asian"
 		}
 	,
 		"CFD-WF-233-112-N":
 		{
 			"CFD Annotators":"White",
 			"All Annotators":"White",
+			"Random":"Black",
 			"Men":"White",
 			"Women":"White",
 			"Black":"Asian",
 			"Asian":"Latino",
 			"White":"White",
-			"Latino":"White",
-			"Random":"Black"
+			"Latino":"White"
 		}
 	,
 		"CFD-BF-240-179-N":
 		{
 			"CFD Annotators":"Black",
 			"All Annotators":"Black",
+			"Random":"Black",
 			"Men":"White",
 			"Women":"Black",
 			"Black":"Black",
 			"Asian":"Black",
 			"White":"White",
-			"Latino":"Black",
-			"Random":"Black"
+			"Latino":"Black"
 		}
 	,
 		"CFD-LF-249-132-N":
 		{
 			"CFD Annotators":"Latino",
 			"All Annotators":"Latino",
+			"Random":"Asian",
 			"Men":"Black",
 			"Women":"Latino",
 			"Black":"Asian",
 			"Asian":"White",
 			"White":"Asian",
-			"Latino":"Asian",
-			"Random":"Asian"
+			"Latino":"Asian"
 		}
 	,
 		"CFD-AM-224-126-N":
 		{
 			"CFD Annotators":"Asian",
 			"All Annotators":"Asian",
+			"Random":"Latino",
 			"Men":"Asian",
 			"Women":"Asian",
 			"Black":"Asian",
 			"Asian":"Black",
 			"White":"Asian",
-			"Latino":"Asian",
-			"Random":"Latino"
+			"Latino":"Asian"
 		}
 	,
 		"CFD-LF-240-199-N":
 		{
 			"CFD Annotators":"Latino",
 			"All Annotators":"Latino",
+			"Random":"Latino",
 			"Men":"White",
 			"Women":"White",
 			"Black":"Asian",
 			"Asian":"Asian",
 			"White":"White",
-			"Latino":"Latino",
-			"Random":"Latino"
+			"Latino":"Latino"
 		}
 	,
 		"CFD-BF-200-080-N":
 		{
 			"CFD Annotators":"Black",
 			"All Annotators":"Black",
+			"Random":"Latino",
 			"Men":"Black",
 			"Women":"Black",
 			"Black":"Asian",
 			"Asian":"Black",
 			"White":"White",
-			"Latino":"Asian",
-			"Random":"Latino"
+			"Latino":"Asian"
 		}
 	,
 		"CFD-BF-251-211-N":
 		{
 			"CFD Annotators":"Black",
 			"All Annotators":"Black",
+			"Random":"Asian",
 			"Men":"Black",
 			"Women":"Black",
 			"Black":"Black",
 			"Asian":"Black",
 			"White":"Black",
-			"Latino":"Black",
-			"Random":"Asian"
+			"Latino":"Black"
 		}
 	,
 		"CFD-LM-201-057-N":
 		{
 			"CFD Annotators":"White",
 			"All Annotators":"White",
+			"Random":"Latino",
 			"Men":"Black",
 			"Women":"White",
 			"Black":"White",
 			"Asian":"White",
 			"White":"White",
-			"Latino":"White",
-			"Random":"Latino"
+			"Latino":"White"
 		}
 	,
 		"CFD-WF-203-229-N":
 		{
 			"CFD Annotators":"Asian",
 			"All Annotators":"Latino",
+			"Random":"Latino",
 			"Men":"Latino",
 			"Women":"White",
 			"Black":"Asian",
 			"Asian":"Asian",
 			"White":"Latino",
-			"Latino":"Asian",
-			"Random":"Latino"
+			"Latino":"Asian"
 		}
 	,
 		"CFD-AM-219-101-N":
 		{
 			"CFD Annotators":"Latino",
 			"All Annotators":"Latino",
+			"Random":"Black",
 			"Men":"Latino",
 			"Women":"Latino",
 			"Black":"Asian",
 			"Asian":"Asian",
 			"White":"Latino",
-			"Latino":"Latino",
-			"Random":"Black"
+			"Latino":"Latino"
 		}
 	,
 		"CFD-WM-249-239-N":
 		{
 			"CFD Annotators":"White",
 			"All Annotators":"White",
+			"Random":"White",
 			"Men":"Black",
 			"Women":"White",
 			"Black":"White",
 			"Asian":"Latino",
 			"White":"White",
-			"Latino":"White",
-			"Random":"White"
+			"Latino":"White"
 		}
 	,
 		"CFD-BM-213-134-N":
 		{
 			"CFD Annotators":"Black",
 			"All Annotators":"Black",
+			"Random":"Latino",
 			"Men":"Black",
 			"Women":"Black",
 			"Black":"Black",
 			"Asian":"Black",
 			"White":"Black",
-			"Latino":"Black",
-			"Random":"Latino"
+			"Latino":"Black"
 		}
 	,
 		"CFD-AM-214-168-N":
 		{
 			"CFD Annotators":"Black",
 			"All Annotators":"Black",
+			"Random":"Asian",
 			"Men":"Black",
 			"Women":"Black",
 			"Black":"Black",
 			"Asian":"Black",
 			"White":"Black",
-			"Latino":"Latino",
-			"Random":"Asian"
+			"Latino":"Latino"
 		}
 
 	}
@@ -533,260 +533,260 @@
 		{
 			"CFD Annotators":"Medium",
 			"All Annotators":"Low",
+			"Random":"High",
 			"Men":"Low",
 			"Women":"High",
 			"Black":"High",
 			"Asian":"Low",
 			"White":"Low",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-AF-250-200-N":
 		{
 			"CFD Annotators":"Medium",
 			"All Annotators":"Low",
+			"Random":"Medium",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"High",
-			"Latino":"Medium",
-			"Random":"Medium"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-BF-035-001-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Low",
+			"Random":"Medium",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"Low",
 			"Asian":"Medium",
 			"White":"Low",
-			"Latino":"High",
-			"Random":"Medium"
+			"Latino":"High"
 		}
 	,
 		"CFD-WM-038-003-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Low",
+			"Random":"Medium",
 			"Men":"High",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"Low",
-			"Latino":"High",
-			"Random":"Medium"
+			"Latino":"High"
 		}
 	,
 		"CFD-AF-209-006-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"Medium",
+			"Random":"High",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"Low",
 			"Asian":"Medium",
 			"White":"Low",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-LM-224-162-N":
 		{
 			"CFD Annotators":"Medium",
 			"All Annotators":"High",
+			"Random":"Medium",
 			"Men":"Low",
 			"Women":"Medium",
 			"Black":"Low",
 			"Asian":"Medium",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"Medium"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-BM-219-141-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"High",
+			"Random":"Medium",
 			"Men":"High",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"High",
-			"Latino":"Medium",
-			"Random":"Medium"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-WF-233-112-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"High",
+			"Random":"Medium",
 			"Men":"Low",
 			"Women":"High",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"High",
-			"Latino":"High",
-			"Random":"Medium"
+			"Latino":"High"
 		}
 	,
 		"CFD-BF-240-179-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"High",
+			"Random":"High",
 			"Men":"High",
 			"Women":"High",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"High",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-LF-249-132-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"Low",
+			"Random":"High",
 			"Men":"High",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"High",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-AM-224-126-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Low",
+			"Random":"High",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"Low",
 			"Asian":"Medium",
 			"White":"Low",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-LF-240-199-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Low",
+			"Random":"Medium",
 			"Men":"Medium",
 			"Women":"Low",
 			"Black":"Medium",
 			"Asian":"Medium",
 			"White":"High",
-			"Latino":"High",
-			"Random":"Medium"
+			"Latino":"High"
 		}
 	,
 		"CFD-BF-200-080-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"High",
+			"Random":"High",
 			"Men":"Low",
 			"Women":"High",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"High",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-BF-251-211-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"High",
+			"Random":"Medium",
 			"Men":"High",
 			"Women":"High",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"High",
-			"Latino":"High",
-			"Random":"Medium"
+			"Latino":"High"
 		}
 	,
 		"CFD-LM-201-057-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"High",
+			"Random":"High",
 			"Men":"Low",
 			"Women":"Medium",
 			"Black":"Medium",
 			"Asian":"Medium",
 			"White":"High",
-			"Latino":"Medium",
-			"Random":"High"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-WF-203-229-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
+			"Random":"Medium",
 			"Men":"Medium",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"High",
-			"Latino":"High",
-			"Random":"Medium"
+			"Latino":"High"
 		}
 	,
 		"CFD-AM-219-101-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Low",
+			"Random":"Medium",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"Low",
 			"Asian":"Medium",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"Medium"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-WM-249-239-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Low",
+			"Random":"Medium",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"Low",
 			"Asian":"Medium",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"Medium"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-BM-213-134-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Low",
+			"Random":"High",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"Low",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-AM-214-168-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"High",
+			"Random":"Medium",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Medium",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"Medium"
+			"Latino":"Medium"
 		}
 
 	}
@@ -797,260 +797,260 @@
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"Medium",
+			"Random":"Medium",
 			"Men":"Low",
 			"Women":"Medium",
 			"Black":"Medium",
 			"Asian":"Low",
 			"White":"Medium",
-			"Latino":"High",
-			"Random":"Medium"
+			"Latino":"High"
 		}
 	,
 		"CFD-AF-250-200-N":
 		{
 			"CFD Annotators":"Medium",
 			"All Annotators":"High",
+			"Random":"High",
 			"Men":"Medium",
 			"Women":"Low",
 			"Black":"Medium",
 			"Asian":"Low",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"High"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-BF-035-001-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"High",
+			"Random":"Low",
 			"Men":"Low",
 			"Women":"Medium",
 			"Black":"Medium",
 			"Asian":"High",
 			"White":"Medium",
-			"Latino":"High",
-			"Random":"Low"
+			"Latino":"High"
 		}
 	,
 		"CFD-WM-038-003-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"High",
+			"Random":"High",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Low",
 			"White":"Low",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-AF-209-006-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"Medium",
+			"Random":"High",
 			"Men":"High",
 			"Women":"Medium",
 			"Black":"Medium",
 			"Asian":"Low",
 			"White":"Low",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-LM-224-162-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"Medium",
+			"Random":"Low",
 			"Men":"Medium",
 			"Women":"Medium",
 			"Black":"Medium",
 			"Asian":"High",
 			"White":"Medium",
-			"Latino":"Medium",
-			"Random":"Low"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-BM-219-141-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
+			"Random":"Low",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"High",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"Low"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-WF-233-112-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"High",
+			"Random":"High",
 			"Men":"Medium",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Low",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"High"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-BF-240-179-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"High",
+			"Random":"High",
 			"Men":"High",
 			"Women":"High",
 			"Black":"High",
 			"Asian":"High",
 			"White":"High",
-			"Latino":"Medium",
-			"Random":"High"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-LF-249-132-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"High",
+			"Random":"Medium",
 			"Men":"Medium",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Low",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"Medium"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-AM-224-126-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
+			"Random":"Medium",
 			"Men":"Medium",
 			"Women":"Medium",
 			"Black":"Medium",
 			"Asian":"High",
 			"White":"Medium",
-			"Latino":"High",
-			"Random":"Medium"
+			"Latino":"High"
 		}
 	,
 		"CFD-LF-240-199-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
+			"Random":"Low",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"Medium",
 			"Asian":"High",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"Low"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-BF-200-080-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
+			"Random":"High",
 			"Men":"Medium",
 			"Women":"Medium",
 			"Black":"Medium",
 			"Asian":"High",
 			"White":"Medium",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-BF-251-211-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"High",
+			"Random":"High",
 			"Men":"High",
 			"Women":"High",
 			"Black":"High",
 			"Asian":"High",
 			"White":"High",
-			"Latino":"Medium",
-			"Random":"High"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-LM-201-057-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
+			"Random":"Low",
 			"Men":"High",
 			"Women":"Medium",
 			"Black":"Medium",
 			"Asian":"High",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"Low"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-WF-203-229-N":
 		{
 			"CFD Annotators":"High",
 			"All Annotators":"Medium",
+			"Random":"Low",
 			"Men":"Medium",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"Low",
 			"White":"High",
-			"Latino":"High",
-			"Random":"Low"
+			"Latino":"High"
 		}
 	,
 		"CFD-AM-219-101-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
+			"Random":"High",
 			"Men":"Medium",
 			"Women":"Low",
 			"Black":"Medium",
 			"Asian":"High",
 			"White":"Low",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-WM-249-239-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Low",
+			"Random":"Low",
 			"Men":"Low",
 			"Women":"Low",
 			"Black":"Low",
 			"Asian":"High",
 			"White":"Low",
-			"Latino":"Medium",
-			"Random":"Low"
+			"Latino":"Medium"
 		}
 	,
 		"CFD-BM-213-134-N":
 		{
 			"CFD Annotators":"Low",
 			"All Annotators":"Medium",
+			"Random":"High",
 			"Men":"Medium",
 			"Women":"Medium",
 			"Black":"Medium",
 			"Asian":"High",
 			"White":"Low",
-			"Latino":"High",
-			"Random":"High"
+			"Latino":"High"
 		}
 	,
 		"CFD-AM-214-168-N":
 		{
 			"CFD Annotators":"Medium",
 			"All Annotators":"Medium",
+			"Random":"High",
 			"Men":"Medium",
 			"Women":"Low",
 			"Black":"High",
 			"Asian":"High",
 			"White":"Medium",
-			"Latino":"Low",
-			"Random":"High"
+			"Latino":"Low"
 		}
 
 	}
