@@ -176,8 +176,7 @@ function classModelDescription($str_value): string
         </p>
 
         <div class="row">
-            <div class="col-1"><h3 class="vertical-text fs-2">Models</h3></div>
-            <div class="col-11">
+            <div class="col">
                 <table class="table table-bordered text-center">
                     <thead>
                     <tr>

@@ -45,13 +45,6 @@ body {
     text-justify: inter-word;
 }
 
-/****** Vertical text style. ******/
-.vertical-text {
-    margin: 200px 50%;
-    transform: rotate(270deg);
-    transform-origin: 0 0;
-}
-
 /****** Effects on gallery images. ******/
 .hover-effect {
     width:100%;

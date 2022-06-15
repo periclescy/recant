@@ -9,7 +9,7 @@
                     “Detecting Stereotypes in Human Computational Tasks” research project funded by
                     the Research and Innovation Foundation of Cyprus under the RESTART 2016-2020-EXCELLENCE HUBS call.
                     For more information about DESCANT visit the
-                    <a href="https://www.cyens.org.cy/en-gb/research/projects/descant-detecting-stereotypes-in-human-computati" target="_blank">project’s website</a>.
+                    <a href="https://faire.cyens.org.cy/projects/descant" target="_blank">project’s website</a>.
                 </p>
 
                 <div class="mb-3 ratio ratio-16x9">
